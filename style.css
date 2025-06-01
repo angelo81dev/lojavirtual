@@ -1,0 +1,11 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+body {
+    background-color: greenyellow;
+}
+p {
+    font-size: 22px;
+    color: blue;
+}
